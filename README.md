@@ -44,7 +44,7 @@ smart_texture_gan_project/
 ### 2.1 Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/smart_texture_gan_project.git
+git clone https://github.com/arjun007-007/Smart-Texture-Generation-with-GANs.git
 cd smart_texture_gan_project
 ```
 
